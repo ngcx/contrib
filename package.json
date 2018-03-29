@@ -1,6 +1,6 @@
 {
   "name": "@ngcx/contrib",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "license": "MIT",
   "scripts": {
     "ng": "ng",
@@ -11,6 +11,17 @@
     "e2e": "ng e2e",
     "packagr": "ng-packagr -p ng-package.json"
   },
+  "keywords": [
+    "angular", "ng"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngcx/contrib.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ngcx/contrib/issues"
+  },
+  "homepage": "https://github.com/ngcx/contrib#readme",
   "private": false,
   "peerDependencies": {
     "@angular/animations": "^5.2.0",
